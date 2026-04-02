@@ -1,4 +1,5 @@
 ## ⛅️ wrangler
+git rev-parse main:README.md
 
 > This package is for wrangler v2.x, released first in May 2022. If you're looking for v1.x of the `@cloudflare/wrangler` package, visit https://www.npmjs.com/package/@cloudflare/wrangler / https://github.com/cloudflare/wrangler.
 
